@@ -1,2 +1,3 @@
 JT 
 - add a new feature
+- fix bag
