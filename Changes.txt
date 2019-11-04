@@ -2,3 +2,5 @@ JT
 - add a new feature
 - fix bag
 - change gui
+- add README
+- delete bottlenecks
